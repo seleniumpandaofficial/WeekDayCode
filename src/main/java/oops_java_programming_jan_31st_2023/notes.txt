@@ -1,0 +1,67 @@
+Java is an Object Oriented Programming Language
+OOPS (Object Oriented Programming Language System/Structure )
+
+
+there are 6 pillars of Java in OOPs
+
+Class
+Object and Methods
+Inheritance
+Polymorphism
+Abstraction
+Encapsulation
+
+------------------------------------------------------------------
+
+Syntax of a class
+
+accessmodifier   class  Classname {
+
+//create methods
+//constructors
+//Objects
+//variables/fields
+//blocks
+//nested Class
+
+}
+
+------------------------------------------------------------------
+
+What is a Class?
+Class is a collection of entities[methods, constructors, objects, variables, blocks, nestedClass]
+Class is a logic form
+Class is a template/blueprint
+Class represents set of properties that are common to all Objects of one type
+Class does not occupy memory space
+
+-------------------------------------------------------------------
+
+What is an Object?
+Object is instance of a class
+Object occupies memory
+Object is a physical form. This means it has certain properties
+         Identity [name]
+         State[Breed/Ethinicity/Age/etc..]
+         Behavior[Barking, Running, Guarding, Eating, Sleeping]
+Categorization of Object is simpler than Class
+
+Technical Definition: -
+Object is collection of all the non-static entities of a Class
+
+-------------------------------------------------------------------------
+
+syntax of a method
+
+accessmodifier  static returntype methodName(parameters){
+
+}
+
+Definition of a method: 
+Methods are independent units of execution
+
+
+
+
+
+

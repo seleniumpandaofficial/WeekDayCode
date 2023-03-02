@@ -1,0 +1,35 @@
+Access modifiers:-
+1. public
+2. private
+3. protected
+4. default (No modifier)
+
+Non-Access modifiers: -
+1. static
+2. final
+3. abstract
+4. synchronized
+5. volatile
+6. native
+7. transient
+
+
+Methods:-
+independent units of execution
+
+Types: -
+1. User-defined methods
+2. Standard Library methods
+
+What is return type in java?
+it specifies what type of value/datatype is returned by the method. It could be int, String, Object
+
+methodName
+if the method has one single name, start with a lowercase
+but if there are two names associated with it, start the first name with lowercase and next one with Upper
+-----------------------------------------------------------------------------------------------
+static vs non-static
+
+
+
+

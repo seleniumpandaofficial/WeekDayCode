@@ -1,0 +1,17 @@
+Please open the url https://testng.org
+
+What is TestNG ?
+TestNG is a testing framework
+TestNG is an execution engine
+TestNG is a reporting system
+
+Step1:
+We need to install TestNG in Eclipse
+
+https://testng.org/testng-eclipse-update-site
+
+Execution Priority
+
+@BeforeSuite > @BeforeTest > @BeforeClass > @BeforeMethod  > @Test > @AfterMethod >
+@AfterClass > @AfterTest > @AfterSuite
+

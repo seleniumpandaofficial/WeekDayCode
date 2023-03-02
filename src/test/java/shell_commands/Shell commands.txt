@@ -1,0 +1,36 @@
+Shell Commands:-
+------------------
+
+mkdir - make a directory
+
+ls - list all files and directories
+
+cd - change directory
+
+. - alias of the current directory
+
+.. - alias of the parent directory
+
+nano - editing a file
+
+clear - clear your terminal
+
+Tab - autocomplete command
+
+echo - print to terminal
+
+man - help you to find certain commands
+
+touch - will create a new file
+
+>   - write to the file
+
+>>  - Append to the file
+
+cat - list contents of the file
+
+rm - remove files and directories
+
+
+
+____________________________________________________________________________________________________

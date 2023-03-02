@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+
+	<test name=" Registration Test">
+		<classes>
+			<class name="testng_automation_code_mar_1st_2023.Registration">
+				<methods>
+					<include name="registerTest" />
+					<exclude name="deRegisterTest" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+
+
+	<test name=" Login Test">
+		<classes>
+			<class name="testng_automation_code_mar_1st_2023.Login">
+				<methods>
+					<include name="loginTest" />
+					<exclude name="deLoginTest" />
+				</methods>
+
+			</class>
+		</classes>
+	</test>
+
+
+	<test name=" Logout Test">
+		<classes>
+			<class name="testng_automation_code_mar_1st_2023.Logout" >
+			
+			<methods>
+					<include name="logoutTest" />
+					<exclude name="deLogoutTest" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+
+
+	<test name=" Search Test">
+		<classes>
+			<class name="testng_automation_code_mar_1st_2023.Search" >
+			<methods>
+					<include name="searchTest" />
+					<exclude name="deSearchTest" />
+				</methods>
+			</class>
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
